@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\curso asp.net\GroupBy_linq_MethodSyntax\GroupBy_linq_MethodSyntax\bin\Debug\GroupBy_linq_MethodSyntax.exe.config
+C:\Users\admin\Desktop\curso asp.net\GroupBy_linq_MethodSyntax\GroupBy_linq_MethodSyntax\bin\Debug\GroupBy_linq_MethodSyntax.exe
+C:\Users\admin\Desktop\curso asp.net\GroupBy_linq_MethodSyntax\GroupBy_linq_MethodSyntax\bin\Debug\GroupBy_linq_MethodSyntax.pdb
+C:\Users\admin\Desktop\curso asp.net\GroupBy_linq_MethodSyntax\GroupBy_linq_MethodSyntax\obj\Debug\GroupBy_linq_MethodSyntax.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\curso asp.net\GroupBy_linq_MethodSyntax\GroupBy_linq_MethodSyntax\obj\Debug\GroupBy_linq_MethodSyntax.exe
+C:\Users\admin\Desktop\curso asp.net\GroupBy_linq_MethodSyntax\GroupBy_linq_MethodSyntax\obj\Debug\GroupBy_linq_MethodSyntax.pdb
